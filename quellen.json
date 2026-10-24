@@ -1,0 +1,37 @@
+{
+  "feeds": [
+    {
+      "name": "Bundesfinanzministerium: Steuern",
+      "url": "",
+      "alle_behalten": true,
+      "hinweis": "Feed-Adresse unter https://www.bundesfinanzministerium.de/Web/DE/Service/Abonnements/Rss/rss.html kopieren (Eintrag 'RSS-Feed zum Thema Steuern'). Da der Feed nur Steuerthemen enthält, wird der Stichwortfilter übersprungen."
+    },
+    {
+      "name": "Bundesfinanzministerium: Pressemitteilungen",
+      "url": "",
+      "hinweis": "Gleiche Seite wie oben, Eintrag 'RSS-Feed Pressemitteilungen'."
+    },
+    {
+      "name": "Tagesschau",
+      "url": "",
+      "hinweis": "Feed-Adresse auf tagesschau.de unter dem RSS-Hinweis im Seitenfuß suchen."
+    },
+    {
+      "name": "Handelsblatt",
+      "url": "",
+      "hinweis": "Feed-Adresse beim Anbieter nachschlagen. Manche Feeds zeigen nur Überschriften."
+    }
+  ],
+  "stichwoerter": [
+    "Finanzamt",
+    "Elster",
+    "Grundfreibetrag",
+    "Kindergeld",
+    "Solidaritätszuschlag",
+    "Soli",
+    "kalte Progression",
+    "Abgabenlast",
+    "Zuckerabgabe",
+    "Plastikabgabe"
+  ]
+}
